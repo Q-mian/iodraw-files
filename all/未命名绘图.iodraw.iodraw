@@ -55,12 +55,6 @@
             <mxPoint x="676" y="204" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AFjvpPQWVDTrayKVOmIY-12" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Graspness&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="884" y="27" width="215" height="318" as="geometry" />
-        </mxCell>
-        <mxCell id="AFjvpPQWVDTrayKVOmIY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.065;entryY=0.223;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AFjvpPQWVDTrayKVOmIY-6" target="AFjvpPQWVDTrayKVOmIY-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
