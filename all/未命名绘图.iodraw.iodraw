@@ -25,7 +25,7 @@
             <mxPoint x="323" y="268" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AFjvpPQWVDTrayKVOmIY-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AFjvpPQWVDTrayKVOmIY-6" value="相机内参" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AFjvpPQWVDTrayKVOmIY-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="AFjvpPQWVDTrayKVOmIY-6">
