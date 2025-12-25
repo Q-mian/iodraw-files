@@ -13,6 +13,18 @@
         <mxCell id="AFjvpPQWVDTrayKVOmIY-3" value="深度图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="298" y="288" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AFjvpPQWVDTrayKVOmIY-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="AFjvpPQWVDTrayKVOmIY-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="211" y="267" as="sourcePoint" />
+            <mxPoint x="261" y="217" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AFjvpPQWVDTrayKVOmIY-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AFjvpPQWVDTrayKVOmIY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="273" y="318" as="sourcePoint" />
+            <mxPoint x="323" y="268" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
