@@ -25,6 +25,9 @@
             <mxPoint x="323" y="268" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AFjvpPQWVDTrayKVOmIY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="AFjvpPQWVDTrayKVOmIY-6" target="AFjvpPQWVDTrayKVOmIY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AFjvpPQWVDTrayKVOmIY-6" value="相机内参" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="298" y="70" width="120" height="60" as="geometry" />
         </mxCell>
@@ -56,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AFjvpPQWVDTrayKVOmIY-12" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Graspness&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="887" y="100" width="215" height="210" as="geometry" />
+          <mxGeometry x="888" y="104" width="215" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
